@@ -2,8 +2,7 @@ Readme
 ======
 
 This repository contains data and scripts allowing to reproduce the figures of
-the [Universal rule for the symmetric division of plant cells (https://doi.org/10.1073/pnas.1011866108)
-publication.
+[Universal rule for the symmetric division of plant cells](https://doi.org/10.1073/pnas.1011866108).
 
 Prerequisites
 -------------
