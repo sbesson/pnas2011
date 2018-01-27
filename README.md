@@ -16,7 +16,13 @@ Files
 
 Raw images used for performing the cell division analysis are available on request.
 
-The results of the analysis of dividing cells are saved as MAT files, named after each system e.g. [dionaea_results.mat](dionaea_results.mat).
+This repository contains
 
-The [Figure6.m](Figure6.m) script allows to reproduce the [Figure 6](http://www.pnas.org/content/108/15/6294#F6) of the paper.
+*   the results of the analysis of dividing cells for multiple systems saved as MAT files e.g. [dionaea_results.mat](dionaea_results.mat).
 
+*   the scripts used to produce the figures and movies of the publication
+
+    | Script | Paper resource |
+    |--------|----------------|
+    | [Figure6.m](Figure6.m) | [Figure 6](http://www.pnas.org/content/108/15/6294#F6) |
+    | [SuppMovieS3.m](SuppMovieS3.m) | [Movie S3](http://www.pnas.org/content/108/15/6294/tab-figures-data) |
