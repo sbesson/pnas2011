@@ -24,6 +24,7 @@ This repository contains
 
     | Script | Paper resource |
     |--------|----------------|
+    | [Figure2A.m](Figure2A.m) | [Figure 2, panel A](http://www.pnas.org/content/108/15/6294#F2) |
     | [Figure6.m](Figure6.m) | [Figure 6](http://www.pnas.org/content/108/15/6294#F6) |
     | [MovieS1.m](MovieS3.m) | [Movie S1](http://www.pnas.org/content/108/15/6294/tab-figures-data) |
     | [MovieS3.m](MovieS3.m) | [Movie S3](http://www.pnas.org/content/108/15/6294/tab-figures-data) |
