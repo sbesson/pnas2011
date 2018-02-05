@@ -7,7 +7,7 @@ This repository contains data and scripts allowing to reproduce the figures of
 Prerequisites
 -------------
 
-*   MATLAB version R2007a or later
+*   MATLAB version R2007a or later (tested using R2017b)
 *   the API allowing to read the cell structures available at
     https://github.com/sbesson/plant-tissue/releases/tag/v0.1.0
 
@@ -16,7 +16,7 @@ Files
 
 Raw images used for performing the cell division analysis are available on request.
 
-This repository contains
+This repository contains:
 
 *   the results of the analysis of dividing cells for multiple systems saved as MAT files:
 
@@ -27,7 +27,6 @@ This repository contains
     | [dionaea_results.mat](dionaea_results.mat) | Dionaea, triangular cells |
     | [Zinnia1_5_22_A_ssd_010-treated.mat](Zinnia1_5_22_A_ssd_010-treated.mat) | Zinnia cells |
     | [Microsorum1_1-treated.mat](Microsorum1_1-treated.mat) - [Microsorum5_1-treated.mat](Microsorum5_1-treated.mat) | Microsorum cells |
-
 
 *   the scripts used to produce the figures and movies of the publication
 
