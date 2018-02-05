@@ -31,8 +31,9 @@ This repository contains
 
     | Script | Paper resource |
     |--------|----------------|
-    | [Figure3A.m](Figure3A.m) | [Figure 3, panel A](http://www.pnas.org/content/108/15/6294#F2) |
-    | [Figure3B.m](Figure3B.m) | [Figure 3, panel B](http://www.pnas.org/content/108/15/6294#FB) |
+    | [Figure3A.m](Figure3A.m) | [Figure 3, panel A](http://www.pnas.org/content/108/15/6294#F3) |
+    | [Figure3B.m](Figure3B.m) | [Figure 3, panel B](http://www.pnas.org/content/108/15/6294#F3) |
+    | [Figure3B.m](Figure3C.m) | [Figure 3, panel C](http://www.pnas.org/content/108/15/6294#F3) |
     | [Figure6.m](Figure6.m) | [Figure 6](http://www.pnas.org/content/108/15/6294#F6) |
     | [MovieS1.m](MovieS3.m) | [Movie S1](http://www.pnas.org/content/108/15/6294/tab-figures-data) |
     | [MovieS3.m](MovieS3.m) | [Movie S3](http://www.pnas.org/content/108/15/6294/tab-figures-data) |
