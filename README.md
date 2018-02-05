@@ -25,6 +25,8 @@ This repository contains
     | [coleochaeteresults.mat](coleochaeteresults.mat) | Coleochaete cells |
     | [quadrantcells.mat](quadrantcells.mat) | Dionaea, quadrant cells |
     | [dionaea_results.mat](dionaea_results.mat) | Dionaea, triangular cells |
+    | [Zinnia1_5_22_A_ssd_010-treated.mat](Zinnia1_5_22_A_ssd_010-treated.mat) | Zinnia cells |
+    | [Microsorum1_1-treated.mat](Microsorum1_1-treated.mat) - [Microsorum5_1-treated.mat](Microsorum5_1-treated.mat) | Microsorum cells |
 
 
 *   the scripts used to produce the figures and movies of the publication
