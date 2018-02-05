@@ -18,7 +18,14 @@ Raw images used for performing the cell division analysis are available on reque
 
 This repository contains
 
-*   the results of the analysis of dividing cells for multiple systems saved as MAT files e.g. [dionaea_results.mat](dionaea_results.mat).
+*   the results of the analysis of dividing cells for multiple systems saved as MAT files:
+
+    | File | Cell type |
+    |--------|----------------|
+    | [coleochaeteresults.mat](coleochaeteresults.mat) | Coleochaete cells |
+    | [quadrantcells.mat](quadrantcells.mat) | Dionaea, quadrant cells |
+    | [dionaea_results.mat](dionaea_results.mat) | Dionaea, triangular cells |
+
 
 *   the scripts used to produce the figures and movies of the publication
 
