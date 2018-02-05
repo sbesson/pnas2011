@@ -1,4 +1,3 @@
-%Figure2B.m
 clear
 close all
 clc
