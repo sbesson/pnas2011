@@ -13,7 +13,10 @@ drawQuadrantPhaseDiagram;
 hold on
 
 theta1 = arrayfun(@(x) x.modelshape.a1, quadrantcells);
+theta1(theta1<0) = -theta1(theta1<0);
 theta2 = arrayfun(@(x) x.modelshape.a2, quadrantcells);
+theta2(theta2<0) = -theta2(theta2<0);
+
 plot(theta1([quadrantcells.divisionmode] == 1),...
     theta2([quadrantcells.divisionmode] == 1),...
     'or','MarkerEdgeColor','r','MarkerFaceColor','r','MarkerSize',msize)
